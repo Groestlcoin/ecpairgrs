@@ -8,7 +8,7 @@ A library for managing SECP256k1 keypairs written in TypeScript with transpiled 
 TypeScript
 
 ``` typescript
-import { Signer, SignerAsync, ECPairInterface, ECPairFactory, ECPairAPI, TinySecp256k1Interface } from 'ecpair';
+import { Signer, SignerAsync, ECPairInterface, ECPairFactory, ECPairAPI, TinySecp256k1Interface } from 'ecpairgrs';
 import * as crypto from 'crypto';
 
 // You need to provide the ECC library. The ECC library must implement
