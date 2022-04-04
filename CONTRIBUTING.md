@@ -1,3 +1,3 @@
-# Refer to Bitcoinjs-lib
+# Refer to Groestlcoinjs-lib
 
-[Please refer to bitcoinjs-lib CONTRIBUTING for a guide on how to contribute by clicking here.](https://github.com/bitcoinjs/bitcoinjs-lib/blob/master/CONTRIBUTING.md)
+[Please refer to groestlcoinjs-lib CONTRIBUTING for a guide on how to contribute by clicking here.](https://github.com/Groestlcoin/groestlcoinjs-lib/blob/master/CONTRIBUTING.md)

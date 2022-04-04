@@ -2,7 +2,7 @@ import { Network } from './networks';
 import * as networks from './networks';
 import * as types from './types';
 import * as randomBytes from 'randombytes';
-import * as wif from 'wif';
+import * as wif from 'wifgrs';
 import { testEcc } from './testecc';
 export { networks };
 

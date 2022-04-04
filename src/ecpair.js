@@ -5,7 +5,7 @@ const networks = require('./networks');
 exports.networks = networks;
 const types = require('./types');
 const randomBytes = require('randombytes');
-const wif = require('wif');
+const wif = require('wifgrs');
 const testecc_1 = require('./testecc');
 const isOptions = types.typeforce.maybe(
   types.typeforce.compile({

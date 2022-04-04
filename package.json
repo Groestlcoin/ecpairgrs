@@ -1,18 +1,18 @@
 {
-  "name": "ecpair",
+  "name": "ecpairgrs",
   "version": "2.0.1",
-  "description": "Client-side Bitcoin JavaScript library ECPair",
+  "description": "Client-side Groestlcoin JavaScript library ECPair",
   "main": "./src/index.js",
   "types": "./src/index.d.ts",
   "engines": {
     "node": ">=8.0.0"
   },
   "keywords": [
-    "bitcoinjs",
-    "bitcoin",
+    "groestlcoinjs",
+    "groestlcoin",
     "browserify",
     "javascript",
-    "bitcoinjs"
+    "groestlcoinjs"
   ],
   "scripts": {
     "audit": "NPM_AUDIT_IGNORE_DEV=1 NPM_AUDIT_IGNORE_LEVEL=low npm-audit-whitelister .npm-audit-whitelister.json",
@@ -41,7 +41,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitcoinjs/ecpair.git"
+    "url": "https://github.com/Groestlcoin/ecpairgrs.git"
   },
   "files": [
     "src"
@@ -49,14 +49,14 @@
   "dependencies": {
     "randombytes": "^2.1.0",
     "typeforce": "^1.18.0",
-    "wif": "^2.0.6"
+    "wifgrs": "^2.0.6"
   },
   "devDependencies": {
     "@types/mocha": "^5.2.7",
     "@types/node": "^16.11.1",
     "@types/proxyquire": "^1.3.28",
     "@types/randombytes": "^2.0.0",
-    "@types/wif": "^2.0.2",
+    "@types/wifgrs": "^2.0.0",
     "bip39": "^3.0.2",
     "bip65": "^1.0.1",
     "bip68": "^1.0.3",
