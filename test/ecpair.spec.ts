@@ -169,7 +169,7 @@ describe('ECPair', () => {
 
   describe('makeRandom', () => {
     const d = Buffer.alloc(32, 4);
-    const exWIF = 'KwMWvwRJeFqxYyhZgNwYuYjbQENDAPAudQx5VEmKJrUZcq6aL2pv';
+    const exWIF = 'KwMWvwRJeFqxYyhZgNwYuYjbQENDAPAudQx5VEmKJrUZcq8CABWG';
 
     describe('uses randombytes RNG', () => {
       it('generates a ECPair', () => {
@@ -431,7 +431,7 @@ describe('ECPair', () => {
       'hex',
     );
     const lowRKeyPair = ECPair.fromWIF(
-      'L3nThUzbAwpUiBAjR5zCu66ybXSPMr2zZ3ikp' + 'ScpTPiYTxBynfZu',
+      'L3nThUzbAwpUiBAjR5zCu66ybXSPMr2zZ3ikp' + 'ScpTPiYTxF8fEA7',
     );
     const dataToSign = Buffer.from(
       'b6c5c548a7f6164c8aa7af5350901626ebd69f9ae' + '2c1ecf8871f5088ec204cfe',

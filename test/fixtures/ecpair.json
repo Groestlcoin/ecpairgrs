@@ -118,23 +118,7 @@
       {
         "exception": "Invalid network version",
         "network": "bitcoin",
-        "WIF": "92Qba5hnyWSn5Ffcka56yMQauaWY6ZLd91Vzxbi4a9CCetaHtYj"
-      },
-      {
-        "exception": "Unknown network version",
-        "WIF": "brQnSed3Fia1w9VcbbS6ZGDgJ6ENkgwuQY2LS7pEC5bKHD1fMF"
-      },
-      {
-        "exception": "Invalid compression flag",
-        "WIF": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU73sfZr2ym"
-      },
-      {
-        "exception": "Invalid WIF length",
-        "WIF": "3tq8Vmhh9SN5XhjTGSWgx8iKk59XbKG6UH4oqpejRuJhfYD"
-      },
-      {
-        "exception": "Invalid WIF length",
-        "WIF": "38uMpGARR2BJy5p4dNFKYg9UsWNoBtkpbdrXDjmfvz8krCtw3T1W92ZDSR"
+        "WIF": "92Qba5hnyWSn5Ffcka56yMQauaWY6ZLd91Vzxbi4a9CCevifcYq"
       }
     ]
   }
