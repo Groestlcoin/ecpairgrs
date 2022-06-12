@@ -6,7 +6,8 @@
       "compressed": true,
       "network": "bitcoin",
       "address": "Ffqz14cyvZYJavD76t6oHNDJnGiWcZMVxR",
-      "WIF": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU73sX6ptSt"
+      "WIF": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU73sX6ptSt",
+      "tweak":  "KyGComs4RrHnqnn5ku3WxA6CVFmHJV61bm8V36Uu4WMsRjk3VtW1"
     },
     {
       "d": "0000000000000000000000000000000000000000000000000000000000000001",
@@ -14,7 +15,8 @@
       "compressed": false,
       "network": "bitcoin",
       "address": "FiT6218RsUiTMyG5DA8bDjrNNuofYV2MdF",
-      "WIF": "5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ip4nEB3kEsreAmVmAPb"
+      "WIF": "5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ip4nEB3kEsreAmVmAPb",
+      "tweak": "5JH8fEnnBcdtAhH74buE8WhbmvBwSiFjH2qpb1LTkPWei4PFNAX"
     },
     {
       "d": "2bfe58ab6d9fd575bdc3a624e4825dd2b375d64ac033fbc46ea79dbab4f69a3e",
@@ -22,7 +24,8 @@
       "compressed": true,
       "network": "bitcoin",
       "address": "Fqkb79441DFz6Tj95CkATJP9qYAwPic4Ps",
-      "WIF": "KxhEDBQyyEFymvfJD96q8stMbJMbZUb6D1PmXqBWZDU2WvavoGbp"
+      "WIF": "KxhEDBQyyEFymvfJD96q8stMbJMbZUb6D1PmXqBWZDU2WvavoGbp",
+      "tweak":  "KwUyUow4TNzozBuaxR5VAQRw99PFQqYZXFn5ZN7Cm2FPeRtSrFra"
     },
     {
       "d": "6c4313b03f2e7324d75e642f0ab81b734b724e13fec930f309e222470236d66b",
@@ -30,7 +33,8 @@
       "compressed": true,
       "network": "bitcoin",
       "address": "Fq7eoRMonqxqUENpL29m1ZUTk3Xz419LYg",
-      "WIF": "KzrA86mCVMGWnLGBQu9yzQa32qbxb5dvSK4XhyjjGAWSBKbaJho8"
+      "WIF": "KzrA86mCVMGWnLGBQu9yzQa32qbxb5dvSK4XhyjjGAWSBKbaJho8",
+      "tweak":  "L4LVynF3Ra6tpU14rMjx2bjNTbKpathPA1KcKVch8UpuGJkdXz3M"
     },
     {
       "d": "6c4313b03f2e7324d75e642f0ab81b734b724e13fec930f309e222470236d66b",
@@ -38,7 +42,8 @@
       "compressed": false,
       "network": "bitcoin",
       "address": "FWAF4aegkqNQhEKLRVuKHQpBuD76h1vBq8",
-      "WIF": "5JdxzLtFPHNe7CAL8EBC6krdFv9pwPoRo4e3syMZEQT9stV9xSc"
+      "WIF": "5JdxzLtFPHNe7CAL8EBC6krdFv9pwPoRo4e3syMZEQT9stV9xSc",
+      "tweak":  "5KRotqK8oMBrMGdievBdwHUj23Lfsj5AYwuFM3rmtYE7rh9rLcM"
     },
     {
       "d": "6c4313b03f2e7324d75e642f0ab81b734b724e13fec930f309e222470236d66b",
@@ -46,7 +51,8 @@
       "compressed": true,
       "network": "testnet",
       "address": "n1TteZiR3NiYojqKAV8fNxtTwsrjSSaHKY",
-      "WIF": "cRD9b1m3vQxmwmjSoJy7Mj56f4uNFXjcWMCzpQCEmHASS4hr72ny"
+      "WIF": "cRD9b1m3vQxmwmjSoJy7Mj56f4uNFXjcWMCzpQCEmHASS4hr72ny",
+      "tweak":  "cUhVShEtrdo9yuULEmZ5PvES5pdEFLo5E3U5Rv5CdbUuX3mjNYcv"
     },
     {
       "d": "6c4313b03f2e7324d75e642f0ab81b734b724e13fec930f309e222470236d66b",
@@ -54,7 +60,8 @@
       "compressed": false,
       "network": "testnet",
       "address": "mgWUuj1J1N882jmqFxtDepEC73RqvhFfS6",
-      "WIF": "92Qba5hnyWSn5Ffcka56yMQauaWY6ZLd91Vzxbi4a9CCevifcYq"
+      "WIF": "92Qba5hnyWSn5Ffcka56yMQauaWY6ZLd91Vzxbi4a9CCevifcYq",
+      "tweak":  "93CSUa8gPaFzKL91HG5Yot2gfhhP2tcMttmCRgDHEGyAdoanKAh"
     },
     {
       "d": "fffffffffffffffffffffffffffffffebaaedce6af48a03bbfd25e8cd0364140",
@@ -62,7 +69,8 @@
       "compressed": true,
       "network": "bitcoin",
       "address": "Fm23egDn6JeqyBQRHjqMKteGd5yXfbVBBg",
-      "WIF": "L5oLkpV3aqBjhki6LmvChTCV6odsp4SXM6FfU2Gppt5kFLZWi8KU"
+      "WIF": "L5oLkpV3aqBjhki6LmvChTCV6odsp4SXM6FfU2Gppt5kFLZWi8KU",
+      "tweak":  "KyGComs4RrHnqnn5ku3WxA6CVFmHJV61bm8V36Uu4WMsRjk3VtW1"
     }
   ],
   "invalid": {
