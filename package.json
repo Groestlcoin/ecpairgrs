@@ -1,6 +1,6 @@
 {
   "name": "ecpairgrs",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Client-side Groestlcoin JavaScript library ECPair",
   "main": "./src/index.js",
   "types": "./src/index.d.ts",
@@ -49,7 +49,7 @@
   "dependencies": {
     "randombytes": "^2.1.0",
     "typeforce": "^1.18.0",
-    "wifgrs": "^2.0.6"
+    "wifgrs": "^2.0.7"
   },
   "devDependencies": {
     "@types/mocha": "^5.2.7",
